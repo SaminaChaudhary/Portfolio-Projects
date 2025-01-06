@@ -1,8 +1,12 @@
-# Portfolio Projects  
-Welcome to my GitHub portfolio!  
-I am actively building and uploading projects to showcase my skills in:  
-- SQL   
-- Tableau  
-- Python  
+# Cyclistic Project - In Progress
 
-Stay tuned for updates!  
+This project is part of the Google Data Analytics certification, focused on analyzing bike-sharing data to gain insights for business decision-making. The analysis is ongoing, and Power BI dashboards will be created soon.
+
+## Project Status: In Progress
+- Data cleaning and analysis ongoing.
+- Power BI dashboards and insights are upcoming.
+
+## Future Updates
+- Power BI visualizations and data insights.
+- Jupyter Notebooks and SQL code.
+
